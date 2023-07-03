@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595643143884",
+    "project_id": "gerenciador-senhas-72094",
+    "storage_bucket": "gerenciador-senhas-72094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595643143884:android:97dd9cceb82153b777d469",
+        "android_client_info": {
+          "package_name": "com.example.gerenciador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595643143884-tm8e5urnqed483t66fi4d8lqi8bl95kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-h3_aLcXVFDUfqftxF-fDrr4nrhYCz5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595643143884-tm8e5urnqed483t66fi4d8lqi8bl95kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
